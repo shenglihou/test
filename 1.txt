@@ -4,3 +4,7 @@ add hot fix
 
 add test
 add hot-fix test
+
+change test
+
+add  git commit --amend
