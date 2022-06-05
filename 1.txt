@@ -7,4 +7,5 @@ add hot-fix test
 
 change test
 
-add  git commit --amend
+add  git commit --amend 1
+add  git commit --amendtest
